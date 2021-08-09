@@ -1,4 +1,4 @@
--  I’m @TimScott78
+-  username: @TimScott78
 -  
 -  ...attempting to use tools required for maintaining/updating an existing Intel SoC design.
 - 

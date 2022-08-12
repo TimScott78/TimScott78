@@ -1,6 +1,6 @@
 -  username: @TimScott78
 -  
--  ...attempting to use tools required for maintaining/updating an existing Intel SoC design.
+-  ...use of git tools in Windows and from Linux OS bash shell required for maintaining/updating an existing Intel SoC design.
 - 
 -  tim.scott@milliken.com
 
